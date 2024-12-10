@@ -1,0 +1,50 @@
+[
+  {
+    "src": "p.52-000.png",
+    "format": "png",
+    "width": 481,
+    "height": 405,
+    "space": "srgb",
+    "channels": 4,
+    "depth": "uchar",
+    "density": 72,
+    "isProgressive": false,
+    "hasProfile": false,
+    "hasAlpha": true,
+    "isMeaningfulImage": true,
+    "title": "Collection of Animals",
+    "description": "A collage featuring various animals, including birds, mammals, reptiles, and insects. The image is organized in a grid-like pattern, showcasing a diverse range of species such as eagles, bears, fish, and butterflies."
+  },
+  {
+    "src": "p.52-002.png",
+    "format": "png",
+    "width": 312,
+    "height": 247,
+    "space": "srgb",
+    "channels": 3,
+    "depth": "uchar",
+    "density": 72,
+    "isProgressive": false,
+    "hasProfile": false,
+    "hasAlpha": false,
+    "isMeaningfulImage": true,
+    "title": "Illustration of a Penguin-like Bird",
+    "description": "A beautifully detailed illustration of a bird resembling a penguin, swimming in water. The bird has a black and white plumage, with a distinctive beak holding a fish. In the background, there are rocky formations and other similar birds perched on the rocks, surrounded by aquatic plants."
+  },
+  {
+    "src": "p.52-003.png",
+    "format": "png",
+    "width": 312,
+    "height": 249,
+    "space": "srgb",
+    "channels": 3,
+    "depth": "uchar",
+    "density": 72,
+    "isProgressive": false,
+    "hasProfile": false,
+    "hasAlpha": false,
+    "isMeaningfulImage": true,
+    "title": "Thylacine and Tasmanian Tiger",
+    "description": "An illustration depicting two thylacines, also known as Tasmanian tigers, in a natural setting. One thylacine is standing upright, showcasing its distinctive striped back, while the other is lying down, also displaying similar stripes. The background features a landscape with vegetation typical of their habitat."
+  }
+]

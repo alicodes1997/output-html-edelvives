@@ -1,0 +1,132 @@
+```json
+{
+  "page": {
+    "headings": [
+      {
+        "level": "h1",
+        "text": "5 /// IMPORTANCIA Y USO DE MINERALES Y ROCAS"
+      },
+      {
+        "level": "h2",
+        "text": "Usos de los minerales"
+      },
+      {
+        "level": "h2",
+        "text": "Usos de las rocas"
+      },
+      {
+        "level": "h2",
+        "text": "Los yacimientos minerales"
+      }
+    ],
+    "paragraphs": [
+      {
+        "text": "El ser humano siempre ha utilizado las rocas y los minerales: al principio, para fabricar herramientas y utensilios; después, para construir su vivienda; en los últimos siglos, como fuente de energía."
+      },
+      {
+        "text": "Los minerales nos proporcionan metales, pigmentos y gemas, además, son una importante fuente de energía."
+      },
+      {
+        "text": "Las rocas proporcionan materiales de construcción y ornamentales, además de energía."
+      },
+      {
+        "text": "Un yacimiento mineral es un depósito natural de mineral o de roca, cuya extracción resulta útil al ser humano. Los minerales y las rocas se pueden extraer de los yacimientos de dos modos: a través de las explotaciones a cielo abierto y mediante las minas."
+      }
+    ],
+    "images": [
+      {
+        "title": "Rock Sample",
+        "alt": "A rough, irregularly shaped rock with a textured surface. The rock appears to have a mix of gray and yellowish hues, suggesting a mineral composition that may include various elements.",
+        "source": "p.20-000.png",
+        "position": "left"
+      },
+      {
+        "title": "Mineral Sample",
+        "alt": "A rock specimen featuring a predominantly black exterior with striking orange veins running through it, suggesting a unique mineral composition.",
+        "source": "p.20-002.png",
+        "position": "top center"
+      },
+      {
+        "title": "Yellow Crystal",
+        "alt": "A close-up view of a yellow crystal with a rough, textured surface. The crystal has a shiny appearance and is composed of multiple facets, reflecting light in various directions.",
+        "source": "p.20-003.png",
+        "position": "top right"
+      },
+      {
+        "title": "Rock",
+        "alt": "A rough, irregularly shaped rock with a light beige color and a textured surface.",
+        "source": "p.20-006.png",
+        "position": "bottom left"
+      },
+      {
+        "title": "Underground Mine Tunnel",
+        "alt": "A dimly lit underground tunnel with rough, rocky walls. The tunnel has a dirt floor and metal tracks running along the ground, suggesting it is used for mining. Lights are mounted on the walls, illuminating the path ahead.",
+        "source": "p.20-010.png",
+        "position": "bottom right"
+      },
+      {
+        "title": "White Rock",
+        "alt": "A small, irregularly shaped white rock with a slightly rough texture and some visible crystalline structure.",
+        "source": "p.20-005.png",
+        "position": "middle left"
+      },
+      {
+        "title": "Obsidian Rock",
+        "alt": "A piece of obsidian, a naturally occurring volcanic glass, characterized by its shiny black surface and smooth texture. The rock has a jagged shape with some reflective qualities, indicating its glassy nature.",
+        "source": "p.20-008.png",
+        "position": "middle center"
+      },
+      {
+        "title": "Open-Pit Mine",
+        "alt": "A panoramic view of an open-pit mine, showcasing steep, terraced walls with vibrant colors ranging from orange to yellow and gray. The mine is filled with water, reflecting the surrounding landscape and sky, creating a striking contrast with the earthy tones of the mine walls.",
+        "source": "p.20-009.png",
+        "position": "middle right"
+      }
+    ],
+    "columns": [
+      {
+        "position": "left",
+        "content": [
+          "Rock Sample",
+          "White Rock"
+        ]
+      },
+      {
+        "position": "center",
+        "content": [
+          "Mineral Sample",
+          "Obsidian Rock",
+          "Open-Pit Mine"
+        ]
+      },
+      {
+        "position": "right",
+        "content": [
+          "Yellow Crystal",
+          "Underground Mine Tunnel"
+        ]
+      }
+    ],
+    "visual_groupings": [
+      {
+        "type": "container",
+        "elements": [
+          "Usos de los minerales",
+          "Bauxita",
+          "Baritina",
+          "Uraninita"
+        ]
+      },
+      {
+        "type": "container",
+        "elements": [
+          "Usos de las rocas",
+          "Mármol",
+          "Caliza",
+          "Carbón"
+        ]
+      }
+    ]
+  }
+}
+```

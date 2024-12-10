@@ -1,0 +1,99 @@
+```json
+{
+  "page": 94,
+  "layout": [
+    {
+      "row": 1,
+      "columns": [
+        {
+          "content": {
+            "type": "heading",
+            "level": "h1",
+            "text": "UN ANIMAL DE PELÍCULA"
+          }
+        }
+      ]
+    },
+    {
+      "row": 2,
+      "columns": [
+        {
+          "content": {
+            "type": "text",
+            "text": "A pesar de los esfuerzos de la comunidad científica, que identifica miles de especies al año, se estima que desconocemos el 86 % de la biodiversidad de la Tierra."
+          }
+        }
+      ]
+    },
+    {
+      "row": 3,
+      "columns": [
+        {
+          "content": {
+            "type": "text",
+            "text": "Una buena parte de los casi 2 millones de especies que se han descubierto lo forman los animales. Todos ellos tienen características que comparten, en mayor o menor medida, con las especies de los distintos grupos taxonómicos a los que pertenecen."
+          }
+        }
+      ]
+    },
+    {
+      "row": 4,
+      "columns": [
+        {
+          "content": {
+            "type": "text",
+            "text": "La clasificación básica distingue a los invertebrados, como las esponjas y los insectos, de los vertebrados, como los peces y los mamíferos. Los primeros no cuentan con columna vertebral, mientras que los segundos sí. La taxonomía emplea este tipo de rasgos evolutivos para agrupar especies, pero a veces la naturaleza puede confundirnos."
+          }
+        }
+      ]
+    },
+    {
+      "row": 5,
+      "columns": [
+        {
+          "content": {
+            "type": "text",
+            "text": "Por ejemplo, ¿por qué los murciélagos no son aves y pueden volar? ¿Qué razones hay para que los ornitólogos sean mamíferos a pesar de poner huevos?"
+          }
+        }
+      ]
+    },
+    {
+      "row": 6,
+      "columns": [
+        {
+          "content": {
+            "type": "text",
+            "text": "Creado dos animales fantásticos inspirados en las especies naturales, en la mitología y en el cine. Describid su hábitat, cómo realiza sus funciones vitales y su aspecto físico."
+          }
+        }
+      ]
+    },
+    {
+      "row": 7,
+      "columns": [
+        {
+          "content": {
+            "type": "image",
+            "title": "Bat Hanging from a Branch",
+            "alt": "A bat is hanging upside down from a thin branch. The bat has a dark brown body with lighter fur on its back and large, spread wings that are partially folded. The background is transparent, emphasizing the bat and the branch.",
+            "source": "p.94-000.png",
+            "position": "right"
+          }
+        }
+      ]
+    },
+    {
+      "row": 8,
+      "columns": [
+        {
+          "content": {
+            "type": "text",
+            "text": "Animales fantásticos: los crímenes de Grindelwald - Modo animal"
+          }
+        }
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,34 @@
+[
+  {
+    "src": "p.148-002.png",
+    "format": "png",
+    "width": 514,
+    "height": 341,
+    "space": "srgb",
+    "channels": 4,
+    "depth": "uchar",
+    "density": 72,
+    "isProgressive": false,
+    "hasProfile": false,
+    "hasAlpha": true,
+    "isMeaningfulImage": true,
+    "title": "Green Frog",
+    "description": "A close-up image of a vibrant green frog with distinctive orange webbed feet. The frog is positioned against a white background, showcasing its smooth skin texture and large, expressive eyes."
+  },
+  {
+    "src": "p.148-000.png",
+    "format": "png",
+    "width": 683,
+    "height": 426,
+    "space": "srgb",
+    "channels": 4,
+    "depth": "uchar",
+    "density": 72,
+    "isProgressive": false,
+    "hasProfile": false,
+    "hasAlpha": true,
+    "isMeaningfulImage": true,
+    "title": "Coastal Bird Scene",
+    "description": "A vibrant coastal scene featuring various birds in flight and on the ground. The background showcases a clear blue sky and a serene ocean with gentle waves. Cliffs and greenery are visible on the shore, while several birds, including a tern and a seagull, are depicted in different poses. A crab is also seen on the beach, adding to the lively atmosphere of the natural setting."
+  }
+]

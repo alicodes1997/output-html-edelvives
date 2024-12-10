@@ -1,0 +1,34 @@
+[
+  {
+    "src": "p.76-000.png",
+    "format": "png",
+    "width": 721,
+    "height": 575,
+    "space": "srgb",
+    "channels": 4,
+    "depth": "uchar",
+    "density": 72,
+    "isProgressive": false,
+    "hasProfile": false,
+    "hasAlpha": true,
+    "isMeaningfulImage": true,
+    "title": "Ecosystem Illustration",
+    "description": "An illustration depicting a vibrant ecosystem. On the left, a small lizard is resting on a rock surrounded by colorful flowers. In the center, a flowering plant stands tall, showcasing pink blooms. To the right, a large tree with a thick trunk and lush green foliage is depicted, with its roots visible underground. Above, several birds are flying in the sky, contributing to the lively atmosphere of the scene."
+  },
+  {
+    "src": "p.76-009.png",
+    "format": "png",
+    "width": 275,
+    "height": 236,
+    "space": "srgb",
+    "channels": 4,
+    "depth": "uchar",
+    "density": 72,
+    "isProgressive": false,
+    "hasProfile": false,
+    "hasAlpha": true,
+    "isMeaningfulImage": true,
+    "title": "Fresh Cherries on a Branch",
+    "description": "A cluster of four shiny, red cherries attached to a branch with two green leaves."
+  }
+]

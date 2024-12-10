@@ -1,0 +1,18 @@
+[
+  {
+    "src": "p.28-000.png",
+    "format": "png",
+    "width": 263,
+    "height": 566,
+    "space": "srgb",
+    "channels": 3,
+    "depth": "uchar",
+    "density": 72,
+    "isProgressive": false,
+    "hasProfile": false,
+    "hasAlpha": false,
+    "isMeaningfulImage": true,
+    "title": "Layers of the Atmosphere",
+    "description": "An illustration depicting various layers of the Earth's atmosphere. At the top, a space shuttle and a satellite are shown in the upper atmosphere, with colorful auroras visible. Below, several meteors are depicted entering the atmosphere. Further down, a weather balloon is illustrated, and at the bottom, a commercial airplane is flying above mountain ranges and clouds."
+  }
+]

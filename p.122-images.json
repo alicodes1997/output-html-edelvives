@@ -1,0 +1,50 @@
+[
+  {
+    "src": "p.122-003.png",
+    "format": "png",
+    "width": 267,
+    "height": 178,
+    "space": "srgb",
+    "channels": 3,
+    "depth": "uchar",
+    "density": 72,
+    "isProgressive": false,
+    "hasProfile": false,
+    "hasAlpha": false,
+    "isMeaningfulImage": true,
+    "title": "Sea Lion Yawning",
+    "description": "A close-up image of a sea lion with its mouth wide open, showcasing its teeth and whiskers against a bright blue background."
+  },
+  {
+    "src": "p.122-000.png",
+    "format": "png",
+    "width": 599,
+    "height": 470,
+    "space": "srgb",
+    "channels": 3,
+    "depth": "uchar",
+    "density": 72,
+    "isProgressive": false,
+    "hasProfile": false,
+    "hasAlpha": false,
+    "isMeaningfulImage": true,
+    "title": "Zebra Grazing",
+    "description": "A zebra is grazing on green grass. The zebra has distinct black and white stripes, and its head is lowered as it feeds. The background is a blurred green field, suggesting a natural habitat."
+  },
+  {
+    "src": "p.122-001.png",
+    "format": "png",
+    "width": 325,
+    "height": 183,
+    "space": "srgb",
+    "channels": 4,
+    "depth": "uchar",
+    "density": 72,
+    "isProgressive": false,
+    "hasProfile": false,
+    "hasAlpha": true,
+    "isMeaningfulImage": true,
+    "title": "Bat in Flight",
+    "description": "A bat with its wings fully spread, showcasing its large, membranous wings and distinctive features. The bat appears to be in mid-flight, with a focus on its wings and body structure."
+  }
+]

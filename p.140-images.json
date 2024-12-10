@@ -1,0 +1,50 @@
+[
+  {
+    "src": "p.140-004.png",
+    "format": "png",
+    "width": 286,
+    "height": 154,
+    "space": "srgb",
+    "channels": 4,
+    "depth": "uchar",
+    "density": 72,
+    "isProgressive": false,
+    "hasProfile": false,
+    "hasAlpha": true,
+    "isMeaningfulImage": true,
+    "title": "Collapsed Buildings",
+    "description": "The image shows two buildings that have partially collapsed, leaning against each other. The structures exhibit significant damage, with exposed interiors and debris scattered around. The sky is clear, indicating a bright day."
+  },
+  {
+    "src": "p.140-003.png",
+    "format": "png",
+    "width": 286,
+    "height": 154,
+    "space": "srgb",
+    "channels": 4,
+    "depth": "uchar",
+    "density": 72,
+    "isProgressive": false,
+    "hasProfile": false,
+    "hasAlpha": true,
+    "isMeaningfulImage": true,
+    "title": "Volcanic Eruption",
+    "description": "A dramatic scene of a volcanic eruption, with lava and ash spewing from the volcano. The sky is illuminated in shades of orange and red, creating a fiery atmosphere. In the foreground, there are buildings partially visible, contrasting with the natural disaster."
+  },
+  {
+    "src": "p.140-001.png",
+    "format": "png",
+    "width": 432,
+    "height": 244,
+    "space": "srgb",
+    "channels": 4,
+    "depth": "uchar",
+    "density": 72,
+    "isProgressive": false,
+    "hasProfile": false,
+    "hasAlpha": true,
+    "isMeaningfulImage": true,
+    "title": "Hurricane Satellite Image",
+    "description": "A satellite image showing a large hurricane over the Atlantic Ocean, with the eastern coast of the United States visible to the north and parts of Central America to the south. The hurricane is characterized by a well-defined eye and swirling cloud formations."
+  }
+]

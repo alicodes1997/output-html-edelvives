@@ -1,0 +1,34 @@
+[
+  {
+    "src": "p.153-000.png",
+    "format": "png",
+    "width": 566,
+    "height": 184,
+    "space": "srgb",
+    "channels": 4,
+    "depth": "uchar",
+    "density": 72,
+    "isProgressive": false,
+    "hasProfile": false,
+    "hasAlpha": true,
+    "isMeaningfulImage": true,
+    "title": "Nature's Creatures",
+    "description": "An illustration featuring a sequence of natural elements: a tuft of green grass, a grasshopper, a green frog, and a fox. The images are arranged from left to right, showcasing a variety of life forms in a natural setting."
+  },
+  {
+    "src": "p.153-002.png",
+    "format": "png",
+    "width": 567,
+    "height": 314,
+    "space": "srgb",
+    "channels": 4,
+    "depth": "uchar",
+    "density": 72,
+    "isProgressive": false,
+    "hasProfile": false,
+    "hasAlpha": true,
+    "isMeaningfulImage": true,
+    "title": "Wildlife Collection",
+    "description": "An illustration featuring various animals and plants. The top row includes a peregrine falcon and a hawk. The middle row shows a squirrel, a mouse, a blackbird, and a grasshopper. The bottom row features a green frog, a snail, and a snake, along with a cluster of colorful plants and flowers."
+  }
+]

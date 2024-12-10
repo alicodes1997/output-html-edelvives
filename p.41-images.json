@@ -1,0 +1,50 @@
+[
+  {
+    "src": "p.41-002.png",
+    "format": "png",
+    "width": 381,
+    "height": 215,
+    "space": "srgb",
+    "channels": 3,
+    "depth": "uchar",
+    "density": 72,
+    "isProgressive": false,
+    "hasProfile": false,
+    "hasAlpha": false,
+    "isMeaningfulImage": true,
+    "title": "Aerial View of a Wastewater Treatment Plant",
+    "description": "An aerial view of a wastewater treatment facility featuring several circular tanks filled with dark water, surrounded by green grass and trees. The facility includes multiple rectangular structures and pathways, indicating a well-organized layout for water treatment processes."
+  },
+  {
+    "src": "p.41-001.png",
+    "format": "png",
+    "width": 163,
+    "height": 169,
+    "space": "srgb",
+    "channels": 3,
+    "depth": "uchar",
+    "density": 72,
+    "isProgressive": false,
+    "hasProfile": false,
+    "hasAlpha": false,
+    "isMeaningfulImage": true,
+    "title": "Historical Portrait",
+    "description": "A black and white portrait of an older man with glasses and a beard, wearing a dark suit and a white collar. He has a serious expression and is looking directly at the camera."
+  },
+  {
+    "src": "p.41-000.png",
+    "format": "png",
+    "width": 380,
+    "height": 231,
+    "space": "srgb",
+    "channels": 3,
+    "depth": "uchar",
+    "density": 72,
+    "isProgressive": false,
+    "hasProfile": false,
+    "hasAlpha": false,
+    "isMeaningfulImage": true,
+    "title": "Turtle with Plastic",
+    "description": "A close-up image of a sea turtle's head, partially submerged in water, with a piece of plastic wrap caught around its mouth. The turtle's shell displays intricate patterns and colors, while the background is blurred, suggesting an underwater environment."
+  }
+]

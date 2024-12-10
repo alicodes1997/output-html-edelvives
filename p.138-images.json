@@ -1,0 +1,18 @@
+[
+  {
+    "src": "p.138-000.png",
+    "format": "png",
+    "width": 852,
+    "height": 170,
+    "space": "srgb",
+    "channels": 4,
+    "depth": "uchar",
+    "density": 72,
+    "isProgressive": false,
+    "hasProfile": false,
+    "hasAlpha": true,
+    "isMeaningfulImage": true,
+    "title": "Soil Layers Illustration",
+    "description": "The image shows three blocks representing different layers of soil. The left block depicts a layer of solid rock with visible cracks. The middle block illustrates a layer of soil with some vegetation on top, showing a transition from rock to soil. The right block features a more developed soil layer with lush greenery, trees, and a depiction of a deer, indicating a thriving ecosystem."
+  }
+]

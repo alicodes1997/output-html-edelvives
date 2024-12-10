@@ -1,0 +1,108 @@
+```json
+{
+  "page": {
+    "headings": [
+      {
+        "level": "h1",
+        "text": "Identificación de pinos con una clave dicotómica"
+      },
+      {
+        "level": "h2",
+        "text": "Ejemplo resuelto"
+      }
+    ],
+    "paragraphs": [
+      {
+        "text": "Una clave dicotómica sirve para determinar la especie o el grupo al que pertenece un ser vivo por medio de dicotomías, es decir, sucesivas divisiones en dos apartados. Ofrece opciones encadenadas, de forma que, al elegir entre las alternativas, se consigue la identificación del organismo. Esta clave permite reconocer nuestros pinos más comunes."
+      },
+      {
+        "text": "Con la ayuda de la clave dicotómica, identifica a qué especie pertenece este pino."
+      },
+      {
+        "text": "Como el pino presenta las hojas agrupadas de dos en dos, en el punto 1 elegimos la segunda opción, que nos lleva al punto 2."
+      },
+      {
+        "text": "En el punto 2 seleccionamos la primera opción, ya que la muestra mide más de 8 cm. Por tanto, nos vamos al punto 4."
+      },
+      {
+        "text": "En el apartado 4 escogemos la segunda alternativa, porque nuestras hojas son largas, con lo que saltamos al punto 6."
+      },
+      {
+        "text": "Como la piña tiene más de 8 cm y es ovoides, vamos a la primera opción, que indica que se trata de un pino piñonero, real o manso (Pinus pinea)."
+      }
+    ],
+    "images": [
+      {
+        "title": "Pine Cone",
+        "alt_text": "A close-up image of a pine cone hanging from a branch. The pine cone is brown with a textured surface, showcasing its scales. Surrounding the cone are green pine needles, indicating it is part of a pine tree.",
+        "source": "p.88-003.png",
+        "position": {
+          "x": 600,
+          "y": 400
+        }
+      },
+      {
+        "title": "Exploring Nature",
+        "alt_text": "An illustrated scene depicting two young people outdoors. One person, a boy with red hair, is focused on a laptop or tablet, while the girl beside him, wearing a beanie and a yellow jacket, appears to be excited or engaged in the activity. The background features a scenic landscape with trees and a mountain in the distance, suggesting a natural setting.",
+        "source": "p.88-001.png",
+        "position": {
+          "x": 50,
+          "y": 400
+        }
+      },
+      {
+        "title": "Lone Tree",
+        "alt_text": "A solitary tree with a broad canopy, leaning to one side, set against a clear blue sky and a vast green field.",
+        "source": "p.88-000.png",
+        "position": {
+          "x": 300,
+          "y": 400
+        }
+      }
+    ],
+    "columns": [
+      {
+        "column_number": 1,
+        "content": [
+          {
+            "type": "text",
+            "text": "Identificación de pinos con una clave dicotómica"
+          },
+          {
+            "type": "text",
+            "text": "Una clave dicotómica sirve para determinar la especie o el grupo al que pertenece un ser vivo por medio de dicotomías..."
+          }
+        ]
+      },
+      {
+        "column_number": 2,
+        "content": [
+          {
+            "type": "text",
+            "text": "Ejemplo resuelto"
+          },
+          {
+            "type": "text",
+            "text": "Con la ayuda de la clave dicotómica, identifica a qué especie pertenece este pino..."
+          }
+        ]
+      }
+    ],
+    "visual_groupings": [
+      {
+        "type": "container",
+        "elements": [
+          {
+            "type": "image",
+            "title": "Lone Tree"
+          },
+          {
+            "type": "image",
+            "title": "Pine Cone"
+          }
+        ]
+      }
+    ]
+  }
+}
+```

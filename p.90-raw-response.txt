@@ -1,0 +1,110 @@
+```json
+{
+  "page": 90,
+  "layout": [
+    {
+      "row": 1,
+      "columns": [
+        {
+          "content": {
+            "type": "heading",
+            "level": "h1",
+            "text": "EL REINO PLANTAS"
+          }
+        },
+        {
+          "content": {
+            "type": "heading",
+            "level": "h2",
+            "text": "PRACTICAR y AVANZAR"
+          }
+        }
+      ]
+    },
+    {
+      "row": 2,
+      "columns": [
+        {
+          "content": {
+            "type": "list",
+            "items": [
+              "¿Qué características de las plantas resaltarías para distinguirlas de los animales?",
+              "Dibuja una planta y rotula cada una de sus partes.",
+              "¿Te parece correcto afirmar que las plantas no se mueven? Explica tu respuesta.",
+              "Indica dos características de las plantas que también estén presentes en los animales.",
+              "Busca y anota el significado etimológico de los términos briofita y pteridófita.",
+              "Indica cuáles de estos seres vivos son plantas: acebuche, lechuga de mar, grama, anémona, cebada y rebollo.",
+              "Escribe el nombre de ocho plantas y clasifícalas como briofitas, pteridófitas, gimnospermas o angiospermas.",
+              "¿Qué rasgo comparten estas dos plantas?",
+              "¿Qué tienen en común los helechos y las plantas con flores?",
+              "Señala tres características que comparten estas parejas de plantas: un pino y un naranjo, un olivo y un ciprés, un musgo y una encina, un helecho y un rosal.",
+              "Elabora una presentación que muestre en qué se parecen y en qué se diferencian las gimnospermas y las angiospermas.",
+              "Explica la finalidad de que las semillas de algunas plantas estén encerradas en frutos."
+            ]
+          }
+        },
+        {
+          "content": {
+            "type": "image",
+            "title": "Moss Patch",
+            "alt": "A lush green patch of moss with a dark brown base, showcasing the vibrant texture and color of the moss.",
+            "source": "p.90-003.png"
+          }
+        }
+      ]
+    },
+    {
+      "row": 3,
+      "columns": [
+        {
+          "content": {
+            "type": "image",
+            "title": "Fern Plant",
+            "alt": "A vibrant green fern plant with multiple fronds extending upwards. The fronds are finely divided and have a lush appearance, while the base shows a cluster of roots.",
+            "source": "p.90-001.png"
+          }
+        },
+        {
+          "content": {
+            "type": "list",
+            "items": [
+              "Relaciona en tu cuaderno por su parecido en cuanto a función y forma las estructuras de las dos columnas.",
+              "Emite una hipótesis que explique por qué los musgos son de menor tamaño que las plantas del resto de los grupos.",
+              "¿Cómo se llaman las estructuras que se observan en la imagen? ¿Qué contienen?",
+              "¿Qué tiene en común la reproducción de los musgos y la de los helechos?",
+              "Busca información y elabora una presentación sobre los líquenes como indicadores de los niveles de contaminación atmosférica. Indica las fuentes consultadas.",
+              "Explica las diferencias entre los helechos y los musgos.",
+              "Copia en tu cuaderno y relaciona cada órgano con su función."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "row": 4,
+      "columns": [
+        {
+          "content": {
+            "type": "list",
+            "items": [
+              "Raíz • Realiza la fotosíntesis.",
+              "Flor • Sujeta la planta al suelo.",
+              "Tallo • Absorbe agua y sales minerales del suelo.",
+              "Hoja • Contiene los órganos reproductores.",
+              "Mantiene derecha a la planta."
+            ]
+          }
+        },
+        {
+          "content": {
+            "type": "image",
+            "title": "Close-up of Fern Sori",
+            "alt": "A close-up image of a green fern leaf displaying multiple circular clusters of reddish-brown sori, which are structures that produce spores. The sori are arranged in a pattern along the leaf, contrasting with the vibrant green background.",
+            "source": "p.90-000.png"
+          }
+        }
+      ]
+    }
+  ]
+}
+```

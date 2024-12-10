@@ -1,0 +1,18 @@
+[
+  {
+    "src": "p.72-000.png",
+    "format": "png",
+    "width": 387,
+    "height": 208,
+    "space": "srgb",
+    "channels": 4,
+    "depth": "uchar",
+    "density": 72,
+    "isProgressive": false,
+    "hasProfile": false,
+    "hasAlpha": true,
+    "isMeaningfulImage": true,
+    "title": "Microscopic View of a Cell",
+    "description": "An artistic representation of a cell, showcasing vibrant colors like red, yellow, and green against a blue background. The cell appears oval-shaped with a textured surface, highlighting its internal structures."
+  }
+]

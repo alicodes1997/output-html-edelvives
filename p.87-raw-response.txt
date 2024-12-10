@@ -1,0 +1,98 @@
+```json
+{
+  "page": 87,
+  "elements": [
+    {
+      "type": "heading",
+      "level": "h2",
+      "text": "6.2 LA REPRODUCCIÓN SEXUAL EN PLANTAS CON FLORES"
+    },
+    {
+      "type": "paragraph",
+      "text": "Se lleva a cabo mediante flores unisexuales o hermafroditas que suelen presentar envolturas vistosas para atraer a los animales polinizadores. La reproducción sexual comprende los siguientes procesos: polinización, fecundación, formación de la semilla, formación del fruto y germinación."
+    },
+    {
+      "type": "list",
+      "items": [
+        {
+          "number": 1,
+          "text": "Polinización: Es el transporte de los granos de polen desde los estambres de una flor hasta el pistilo de otra. Generalmente se da entre flores de distintos individuos de la misma especie. El viento o algunos animales se encargan de esta función."
+        },
+        {
+          "number": 2,
+          "text": "Fecundación: Es la unión del gameto masculino con el femenino. Ocurre cuando el grano de polen produce el tubo polínico, que permite a los gametos masculinos llegar hasta los gametos femeninos y unirse con ellos. Una vez que sucede la fecundación, se origina una célula, que, tras divisiones sucesivas, da lugar al embrión."
+        },
+        {
+          "number": 3,
+          "text": "Formación de la semilla: El embrión se rodea de tejidos que protegen y nutren a la planta en sus primeras fases de vida, como los cotiledones, y se forma la semilla."
+        },
+        {
+          "number": 4,
+          "text": "Formación del fruto: En las angiospermas, el ovario madura alrededor de la semilla y produce el fruto. Mientras, los estambres y la corola se caen."
+        },
+        {
+          "number": 5,
+          "text": "Germinación: Los frutos maduros ayudan a dispersar las semillas. Si las condiciones de humedad y temperatura son adecuadas, las semillas originan nuevas plantas."
+        }
+      ]
+    },
+    {
+      "type": "visual_grouping",
+      "description": "Los frutos y la dispersión de las semillas",
+      "elements": [
+        {
+          "type": "paragraph",
+          "text": "Los frutos contribuyen a esparcir las semillas a una cierta distancia para evitar la competencia por los nutrientes y la luz."
+        },
+        {
+          "type": "paragraph",
+          "text": "• Los animales comen los frutos, llevan sus semillas en el tubo digestivo y las expulsan después con las deyecciones."
+        },
+        {
+          "type": "paragraph",
+          "text": "• Algunos frutos forman estructuras que se adhieren al cuerpo de los animales, que los transportan."
+        },
+        {
+          "type": "paragraph",
+          "text": "• Hay frutos que desarrollan estructuras a modo de alas o pelos, que facilitan su desplazamiento movidos por el viento."
+        }
+      ]
+    },
+    {
+      "type": "images",
+      "items": [
+        {
+          "title": "Dandelion Seed Head",
+          "alt_text": "A close-up image of a dandelion seed head against a clear blue sky. The dandelion is fully puffed out, showcasing its delicate white seeds radiating from the center, creating a fluffy appearance.",
+          "source": "p.87-008.png",
+          "position": "bottom-left"
+        },
+        {
+          "title": "Pollination and Fruit Development Cycle",
+          "alt_text": "The image illustrates the cycle of pollination and fruit development. It shows a plant with roots in the soil, a flowering plant attracting bees for pollination, and the resulting cherries and seeds. The arrows indicate the flow of the process from the plant to the flower, to pollination by bees, and finally to the development of fruit and seeds.",
+          "source": "p.87-000.png",
+          "position": "center"
+        },
+        {
+          "title": "Graph Representation",
+          "alt_text": "A simple line graph with a horizontal axis and a vertical axis. The graph appears to be empty, with no plotted data points or lines.",
+          "source": "p.87-002.png",
+          "position": "bottom-center"
+        },
+        {
+          "title": "Chipmunk Eating Berries",
+          "alt_text": "A close-up image of a chipmunk perched on a branch, nibbling on red berries. The chipmunk has distinctive brown and black stripes along its back, and the background features soft, blurred colors that suggest a natural setting.",
+          "source": "p.87-006.png",
+          "position": "bottom-right"
+        },
+        {
+          "title": "Close-up of a Green Seed Pod",
+          "alt_text": "A close-up image of a green seed pod with a spiky texture, surrounded by long green leaves. The background is a soft purple, creating a contrast that highlights the details of the seed pod.",
+          "source": "p.87-007.png",
+          "position": "bottom-right"
+        }
+      ]
+    }
+  ]
+}
+```

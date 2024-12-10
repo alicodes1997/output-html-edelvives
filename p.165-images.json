@@ -1,0 +1,50 @@
+[
+  {
+    "src": "p.165-002.png",
+    "format": "png",
+    "width": 383,
+    "height": 225,
+    "space": "srgb",
+    "channels": 3,
+    "depth": "uchar",
+    "density": 72,
+    "isProgressive": false,
+    "hasProfile": false,
+    "hasAlpha": false,
+    "isMeaningfulImage": true,
+    "title": "Polar Bear with Plastic",
+    "description": "A polar bear is swimming in water, holding a piece of plastic in its mouth along with a fish. The bear's fur is white and wet, and it appears to be in a natural habitat, highlighting the impact of pollution on wildlife."
+  },
+  {
+    "src": "p.165-001.png",
+    "format": "png",
+    "width": 383,
+    "height": 229,
+    "space": "srgb",
+    "channels": 3,
+    "depth": "uchar",
+    "density": 72,
+    "isProgressive": false,
+    "hasProfile": false,
+    "hasAlpha": false,
+    "isMeaningfulImage": true,
+    "title": "Forest After a Fire",
+    "description": "A landscape showing a forest area with many dead trees, likely the aftermath of a wildfire. The sky is bright blue with a few clouds, and there is some green vegetation visible on the ground, indicating regrowth."
+  },
+  {
+    "src": "p.165-000.png",
+    "format": "png",
+    "width": 383,
+    "height": 228,
+    "space": "srgb",
+    "channels": 3,
+    "depth": "uchar",
+    "density": 72,
+    "isProgressive": false,
+    "hasProfile": false,
+    "hasAlpha": false,
+    "isMeaningfulImage": true,
+    "title": "Bird on a Branch",
+    "description": "A bird perched on a branch in front of a large, intricate nest made of twigs and leaves. The background features a clear blue sky and green foliage, suggesting a vibrant natural setting."
+  }
+]

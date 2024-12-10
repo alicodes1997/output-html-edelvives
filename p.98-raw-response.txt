@@ -1,0 +1,162 @@
+```json
+{
+  "page": 98,
+  "layout": [
+    {
+      "row": 1,
+      "columns": [
+        {
+          "content": {
+            "type": "heading",
+            "level": "h1",
+            "text": "LOS ANIMALES INVERTEBRADOS"
+          }
+        },
+        {
+          "content": {
+            "type": "text",
+            "text": "Practicar y avanzar 1-8"
+          }
+        }
+      ]
+    },
+    {
+      "row": 2,
+      "columns": [
+        {
+          "content": {
+            "type": "paragraph",
+            "text": "Animales acuáticos, como el cangrejo y el calamar; terrestres, como la araña y la lombriz, o aéreo, como la mosca y la libélula, tienen en común que su cuerpo carece de columna vertebral. Por esta razón se denominan invertebrados, pero sin constituir un grupo taxonómico como sucede con los vertebrados."
+          }
+        },
+        {
+          "content": {
+            "type": "image",
+            "title": "Close-up of a Bee",
+            "alt": "A detailed close-up image of a bee, showcasing its fuzzy orange and black body, delicate wings, and antennae.",
+            "source": "p.98-016.png"
+          }
+        }
+      ]
+    },
+    {
+      "row": 3,
+      "columns": [
+        {
+          "content": {
+            "type": "text",
+            "text": "Algunos ejemplos de invertebrados son los siguientes."
+          }
+        },
+        {
+          "content": {
+            "type": "image",
+            "title": "Babosa de mar",
+            "alt": "An image of a brightly colored sea slug.",
+            "source": "p.98-000.png"
+          }
+        },
+        {
+          "content": {
+            "type": "image",
+            "title": "Mariposa",
+            "alt": "An image of a butterfly.",
+            "source": "p.98-011.png"
+          }
+        },
+        {
+          "content": {
+            "type": "image",
+            "title": "Pulpo",
+            "alt": "An image of an octopus.",
+            "source": "p.98-002.png"
+          }
+        },
+        {
+          "content": {
+            "type": "image",
+            "title": "Mariquita",
+            "alt": "An image of a ladybug.",
+            "source": "p.98-003.png"
+          }
+        }
+      ]
+    },
+    {
+      "row": 4,
+      "columns": [
+        {
+          "content": {
+            "type": "heading",
+            "level": "h2",
+            "text": "El cuerpo de los invertebrados"
+          }
+        }
+      ]
+    },
+    {
+      "row": 5,
+      "columns": [
+        {
+          "content": {
+            "type": "paragraph",
+            "text": "El cuerpo de los invertebrados presenta las siguientes características:"
+          }
+        }
+      ]
+    },
+    {
+      "row": 6,
+      "columns": [
+        {
+          "content": {
+            "type": "list",
+            "items": [
+              "Puede carecer de esqueleto o tener un esqueleto externo o interno que lo protege, de forma que puede servir de los músculos para permitir su desplazamiento.",
+              "Está cubierto por una piel que puede segregar esqueletos, espinas, conchas o capas de células con pigmentos.",
+              "Ofrece una gran variedad de formas."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "row": 7,
+      "columns": [
+        {
+          "content": {
+            "type": "image",
+            "title": "Grasshopper",
+            "alt": "A detailed illustration of a green grasshopper.",
+            "source": "p.98-004.png"
+          }
+        },
+        {
+          "content": {
+            "type": "image",
+            "title": "Sea Urchin",
+            "alt": "A spherical sea urchin with long, spiky spines.",
+            "source": "p.98-007.png"
+          }
+        },
+        {
+          "content": {
+            "type": "image",
+            "title": "Starfish",
+            "alt": "A starfish with a textured surface.",
+            "source": "p.98-013.png"
+          }
+        },
+        {
+          "content": {
+            "type": "image",
+            "title": "Cuttlefish",
+            "alt": "An image of a cuttlefish.",
+            "source": "p.98-009.png"
+          }
+        }
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,110 @@
+```json
+{
+  "page": {
+    "headings": [
+      {
+        "level": "h1",
+        "text": "ASÍ ES EL RECORRIDO FANFEST POR ESTA ASIGNATURA"
+      },
+      {
+        "level": "h2",
+        "text": "LAS SITUACIONES DE APRENDIZAJE"
+      },
+      {
+        "level": "h3",
+        "text": "UN MENÚ DE LO MÁS VARIADO"
+      }
+    ],
+    "paragraphs": [
+      {
+        "text": "Se plantean seis situaciones de aprendizaje en las que se aplican diferentes saberes básicos expuestos en las unidades relacionadas. Cada bloque, compuesto por una situación de aprendizaje y una o varias unidades, se marca con un color."
+      },
+      {
+        "text": "Al inicio de la situación de aprendizaje se expone la tarea, se plantea una evaluación de conocimientos previos y se dan indicaciones para planificar y gestionar las diferentes acciones necesarias para resolver el reto planteado."
+      },
+      {
+        "text": "A continuación, se indican las unidades en las que se presentan los saberes básicos relacionados con el desarrollo de la tarea planteada, así como fuentes de información que pueden consultarse para ampliar los conocimientos necesarios para resolverla. Además, se sugieren algunas actividades y propuestas de investigación que conducen a la elaboración del producto final."
+      },
+      {
+        "text": "Finalmente, se dan algunas pistas para realizar una síntesis de lo aprendido, así como una reflexión en clave de autoevaluación y coevaluación."
+      }
+    ],
+    "images": [
+      {
+        "title": "Risen Dough",
+        "alt_text": "A close-up image of a bowl filled with risen dough, showcasing its airy and bubbly texture. The dough appears light and fluffy, indicating fermentation, with a smooth surface and a pale color.",
+        "source": "p.2-036.png",
+        "position": {
+          "x": 50,
+          "y": 100
+        }
+      },
+      {
+        "title": "Variety of Spices",
+        "alt_text": "An arrangement of various spices displayed in silver spoons. The spices include a vibrant yellow powder, a reddish-brown powder, and a light-colored powder, along with whole peppercorns and a sprig of fresh herbs. The background is white, emphasizing the colors and textures of the spices.",
+        "source": "p.2-035.png",
+        "position": {
+          "x": 300,
+          "y": 100
+        }
+      },
+      {
+        "title": "Fresh Salad Ingredients",
+        "alt_text": "An assortment of fresh vegetables and salad ingredients, including lettuce, cucumbers, cherry tomatoes, bell peppers in various colors, red onions, black olives, and cubes of feta cheese, arranged in a dynamic, scattered manner against a white background.",
+        "source": "p.2-033.png",
+        "position": {
+          "x": 550,
+          "y": 100
+        }
+      }
+    ],
+    "columns": [
+      {
+        "column_index": 1,
+        "content": [
+          {
+            "type": "text",
+            "text": "Se plantean seis situaciones de aprendizaje..."
+          },
+          {
+            "type": "text",
+            "text": "Al inicio de la situación de aprendizaje..."
+          }
+        ]
+      },
+      {
+        "column_index": 2,
+        "content": [
+          {
+            "type": "text",
+            "text": "A continuación, se indican las unidades..."
+          },
+          {
+            "type": "text",
+            "text": "Finalmente, se dan algunas pistas..."
+          }
+        ]
+      }
+    ],
+    "visual_groupings": [
+      {
+        "type": "container",
+        "elements": [
+          {
+            "type": "image",
+            "title": "Risen Dough"
+          },
+          {
+            "type": "image",
+            "title": "Variety of Spices"
+          },
+          {
+            "type": "image",
+            "title": "Fresh Salad Ingredients"
+          }
+        ]
+      }
+    ]
+  }
+}
+```

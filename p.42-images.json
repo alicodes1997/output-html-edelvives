@@ -1,0 +1,18 @@
+[
+  {
+    "src": "p.42-000.png",
+    "format": "png",
+    "width": 1365,
+    "height": 396,
+    "space": "srgb",
+    "channels": 4,
+    "depth": "uchar",
+    "density": 72,
+    "isProgressive": false,
+    "hasProfile": false,
+    "hasAlpha": true,
+    "isMeaningfulImage": true,
+    "title": "Leafcutter Ants",
+    "description": "The image depicts a line of leafcutter ants carrying various sizes of green leaves. The ants are shown in a sequence, illustrating their behavior of transporting leaves, which they use for cultivating fungus as a food source."
+  }
+]

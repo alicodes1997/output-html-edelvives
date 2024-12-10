@@ -1,0 +1,50 @@
+[
+  {
+    "src": "p.85-004.png",
+    "format": "png",
+    "width": 196,
+    "height": 197,
+    "space": "srgb",
+    "channels": 4,
+    "depth": "uchar",
+    "density": 72,
+    "isProgressive": false,
+    "hasProfile": false,
+    "hasAlpha": true,
+    "isMeaningfulImage": true,
+    "title": "Root Growth Illustration",
+    "description": "An illustration depicting a plant root in soil, with arrows indicating the direction of nutrient and water absorption. The root is shown in a light color, contrasting with the dark soil, and the arrows are colored red and blue to represent different processes."
+  },
+  {
+    "src": "p.85-000.png",
+    "format": "png",
+    "width": 453,
+    "height": 820,
+    "space": "srgb",
+    "channels": 4,
+    "depth": "uchar",
+    "density": 72,
+    "isProgressive": false,
+    "hasProfile": false,
+    "hasAlpha": true,
+    "isMeaningfulImage": true,
+    "title": "Plant Growth Diagram",
+    "description": "An illustration of a plant showing its structure, including leaves, stem, and roots. The sun is depicted above, indicating sunlight, which is essential for photosynthesis. The roots are shown in the soil, with arrows indicating the absorption of water and nutrients. The plant has green leaves and a small flower, representing growth and vitality."
+  },
+  {
+    "src": "p.85-002.png",
+    "format": "png",
+    "width": 257,
+    "height": 362,
+    "space": "srgb",
+    "channels": 4,
+    "depth": "uchar",
+    "density": 72,
+    "isProgressive": false,
+    "hasProfile": false,
+    "hasAlpha": true,
+    "isMeaningfulImage": false,
+    "title": "Abstract Yellow Circle",
+    "description": "An abstract image featuring a large yellow circle with a soft gradient towards the center, which is white. The edges of the circle are bright yellow, creating a glowing effect."
+  }
+]

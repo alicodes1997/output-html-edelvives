@@ -1,0 +1,34 @@
+[
+  {
+    "src": "p.157-001.png",
+    "format": "png",
+    "width": 267,
+    "height": 377,
+    "space": "srgb",
+    "channels": 3,
+    "depth": "uchar",
+    "density": 72,
+    "isProgressive": false,
+    "hasProfile": false,
+    "hasAlpha": false,
+    "isMeaningfulImage": true,
+    "title": "Deforestation Over Time",
+    "description": "The image shows a comparison of satellite images from two different years, 1985 and 2000, highlighting the changes in land use over time. The top half displays a more forested area with fewer clearings, while the bottom half reveals significant deforestation, with numerous cleared patches indicating agricultural or urban development."
+  },
+  {
+    "src": "p.157-000.png",
+    "format": "png",
+    "width": 434,
+    "height": 336,
+    "space": "srgb",
+    "channels": 3,
+    "depth": "uchar",
+    "density": 72,
+    "isProgressive": false,
+    "hasProfile": false,
+    "hasAlpha": false,
+    "isMeaningfulImage": true,
+    "title": "Capercaillie",
+    "description": "A male capercaillie, a large bird known for its distinctive plumage and courtship display. The bird is shown standing on a grassy area, with its tail feathers fanned out and a colorful head featuring a red wattle."
+  }
+]

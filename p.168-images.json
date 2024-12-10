@@ -1,0 +1,18 @@
+[
+  {
+    "src": "p.168-000.png",
+    "format": "png",
+    "width": 559,
+    "height": 446,
+    "space": "srgb",
+    "channels": 3,
+    "depth": "uchar",
+    "density": 72,
+    "isProgressive": false,
+    "hasProfile": false,
+    "hasAlpha": false,
+    "isMeaningfulImage": true,
+    "title": "Turtle Close-Up",
+    "description": "A close-up image of a turtle, showcasing its detailed shell and colorful markings. The turtle has a prominent red stripe near its eye and intricate patterns on its skin and shell."
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "src": "p.111-003.png",
+    "format": "png",
+    "width": 188,
+    "height": 139,
+    "space": "srgb",
+    "channels": 4,
+    "depth": "uchar",
+    "density": 72,
+    "isProgressive": false,
+    "hasProfile": false,
+    "hasAlpha": true,
+    "isMeaningfulImage": true,
+    "title": "Colorful Sea Anemones",
+    "description": "The image features two vibrant sea anemones with orange and red coloration, surrounded by a rocky underwater environment. The anemones have long, flowing tentacles that create a striking visual contrast against the textured background of coral and rocks."
+  },
+  {
+    "src": "p.111-000.png",
+    "format": "png",
+    "width": 186,
+    "height": 127,
+    "space": "srgb",
+    "channels": 3,
+    "depth": "uchar",
+    "density": 72,
+    "isProgressive": false,
+    "hasProfile": false,
+    "hasAlpha": false,
+    "isMeaningfulImage": true,
+    "title": "Nautilus in Blue Water",
+    "description": "A close-up image of a nautilus swimming in deep blue water. The nautilus has a spiral shell with distinctive red and white stripes, and its tentacles are visible as it moves gracefully through the water."
+  },
+  {
+    "src": "p.111-001.png",
+    "format": "png",
+    "width": 188,
+    "height": 127,
+    "space": "srgb",
+    "channels": 3,
+    "depth": "uchar",
+    "density": 72,
+    "isProgressive": false,
+    "hasProfile": false,
+    "hasAlpha": false,
+    "isMeaningfulImage": true,
+    "title": "Colorful Sea Slug",
+    "description": "A close-up image of a colorful sea slug, featuring a white body with black spots and delicate, feathery gills. The slug is resting on a vibrant orange coral background, showcasing the contrast between the colors."
+  }
+]

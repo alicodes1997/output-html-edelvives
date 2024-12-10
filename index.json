@@ -1,0 +1,22 @@
+[
+  {
+    "src": "p.1.png",
+    "isPageTableOfContents": false
+  },
+  {
+    "src": "p.2.png",
+    "isPageTableOfContents": false
+  },
+  {
+    "src": "p.3.png",
+    "isPageTableOfContents": false
+  },
+  {
+    "src": "p.4.png",
+    "isPageTableOfContents": true
+  },
+  {
+    "src": "p.5.png",
+    "isPageTableOfContents": true
+  }
+]
