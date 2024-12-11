@@ -1,0 +1,820 @@
+{
+    "title": "198678_FANFEST_2PRIM_CCSS_Alumno_Ara_PDF_Web.pdf",
+    "course": "2PRIM",
+    "subject": "ciencias sociales",
+    "cicle": "PRIMER CICLO",
+    "stage": "PRIMARIA",
+    "seal": "EDELVIVES",
+    "code": "198678",
+    "region": "",
+    "units": [
+      {
+        "title": "El mundo en casa",
+        "fromPage": 4,
+        "toPage": 17,
+        "sections": [
+          {
+            "title": "Diferenciar tipos de localidades",
+            "abstract": "Esta sección aborda los diferentes tipos de localidades o municipios, centrándose en la distinción entre pueblos y ciudades:\n\n**Pueblos:**\n- Tienen poca población\n- Poco tráfico\n- Edificios generalmente bajos\n- Calles más estrechas\n- Menor tamaño que las ciudades\n\n**Ciudades:**\n- Mayor población\n- Mayor tamaño\n- Más tráfico\n- División en barrios con características propias\n- Edificios altos\n- Calles y avenidas amplias",
+            "regions": {
+              "ARA": {
+                "knowledges": [
+                  {
+                    "code": "CMS.2.A.01.",
+                    "name": "Exploración y observación guiada del entorno físico y social, con especial interés en el patrimonio, el paisaje y la organización de la localidad"
+                  },
+                  {
+                    "code": "CMS.2.B.1.02.",
+                    "name": "La diversidad de las poblaciones en el entorno físico y sociocultural"
+                  }
+                ],
+                "specificCompetences": [
+                  {
+                    "code": "5",
+                    "name": "Participar en el entorno y la vida social de forma eficaz y constructiva desde el respeto a los valores democráticos, los derechos humanos y de la infancia y los principios y valores de la Constitución española y la Unión Europea, valorando la función del Estado y sus instituciones en el mantenimiento de la paz y la seguridad para generar interacciones respetuosas y equitativas y promover la resolución pacífica y dialogada de los conflictos."
+                  }
+                ],
+                "criterions": [
+                  {
+                    "code": "5.1",
+                    "name": "Establecer acuerdos de forma dialógica y democrática como parte de grupos próximos a su entorno, identificando las responsabilidades y empleando un lenguaje inclusivo y no violento."
+                  }
+                ],
+                "keyCompetences": [
+                  {
+                    "code": "CC",
+                    "name": "Competencia ciudadana"
+                  }
+                ],
+                "operativeDescriptors": [
+                  "Participación en actividades comunitarias"
+                ],
+                "performances": [
+                  "Identifica diferentes manifestaciones de la diversidad lingüística, artística y cultural en diferentes contextos históricos y geográficos a partir de ejemplos concretos.",
+                  "Identifica diferentes manifestaciones de la diversidad lingüística, artística y cultural en diferentes contextos históricos y geográficos a partir de ejemplos concretos."
+                ]
+              }
+            }
+          },
+          {
+            "title": "Saber cómo son las localidades",
+            "abstract": "Esta sección describe las características comunes que tienen todas las localidades o municipios:\n\n**Servicios y elementos:**\n- Servicios básicos: agua, transporte, bibliotecas, centros educativos, hospitales\n- Comercios: farmacias, supermercados, tiendas\n- Mobiliario urbano: farolas, semáforos, bancos\n- Equipamientos culturales: museos y centros culturales\n- Templos religiosos\n- Ayuntamiento como centro de gobierno\n\n**Profesionales:**\n- Personal de seguridad\n- Personal sanitario\n- Personal de limpieza\n- Personal de servicios culturales\n- Personal de transporte\n- Personal de comercios",
+            "regions": {
+              "ARA": {
+                "knowledges": [
+                  {
+                    "code": "CMS.2.A.01.",
+                    "name": "Exploración y observación guiada del entorno físico y social, con especial interés en el patrimonio, el paisaje y la organización de la localidad"
+                  },
+                  {
+                    "code": "CMS.2.B.1.02.",
+                    "name": "La diversidad de las poblaciones en el entorno físico y sociocultural"
+                  }
+                ],
+                "specificCompetences": [
+                  {
+                    "code": "5",
+                    "name": "Participar en el entorno y la vida social de forma eficaz y constructiva desde el respeto a los valores democráticos, los derechos humanos y de la infancia y los principios y valores de la Constitución española y la Unión Europea, valorando la función del Estado y sus instituciones en el mantenimiento de la paz y la seguridad para generar interacciones respetuosas y equitativas y promover la resolución pacífica y dialogada de los conflictos."
+                  }
+                ],
+                "criterions": [
+                  {
+                    "code": "5.2",
+                    "name": "Identificar instituciones cercanas, señalando y valorando las funciones que realizan en pro de una buena convivencia."
+                  }
+                ],
+                "keyCompetences": [
+                  {
+                    "code": "CC",
+                    "name": "Competencia ciudadana"
+                  }
+                ],
+                "operativeDescriptors": [
+                  "Comprensión de procesos históricos y sociales y convivencia"
+                ],
+                "performances": [
+                  "Explica de forma guiada el ejercicio de las normas así como el funcionamiento de las instituciones autonómicas y municipales en la gestión de los servicios públicos para la ciudanía.",
+                  "Conoce normas básicas para la convivencia en espacios públicos y de interacción con personas de diferentes culturas y lenguas basadas en los derechos y libertades de los individuos y colectivos sociales en contextos cercanos a su experiencia.",
+                  "Explica de forma guiada el ejercicio de las normas así como el funcionamiento de las instituciones autonómicas y municipales en la gestión de los servicios públicos para la ciudanía."
+                ]
+              }
+            }
+          }
+        ]
+      },
+      {
+        "title": "Festival de Globos",
+        "fromPage": 18,
+        "toPage": 31,
+        "sections": [
+          {
+            "title": "Conocer la seguridad de la ciudad",
+            "abstract": "Esta sección aborda la importancia de la seguridad vial y las precauciones necesarias para desplazarse de forma segura en la ciudad. Los puntos principales son:\n\n- **Precauciones básicas de seguridad**:\n  - Conocer y respetar las señales\n  - Utilizar casco al viajar en bicicleta o monopatín\n  - Mirar antes de cruzar\n  - Usar cinturón en el coche o autobús\n  - No caminar mirando pantallas\n\n- **Normas para peatones y medios de transporte**:\n  - Prestar atención a las señales\n  - Llevar casco\n  - Ponerse el cinturón de seguridad\n  - Respetar las señales de tráfico\n  - Cruzar por los pasos de cebra",
+            "regions": {
+              "ARA": {
+                "knowledges": [
+                  {
+                    "code": "CMS.2.B.03.",
+                    "name": "Las reglas de convivencia. Moralidad, legalidad y conducta cívica"
+                  },
+                  {
+                    "code": "CMS.2.B.09.",
+                    "name": "La cultura de paz y no violencia. La contribución del Estado y sus instituciones a la paz, la seguridad y la cooperación internacional. La seguridad integral del ciudadano"
+                  },
+                  {
+                    "code": "CMS.2.C.05.",
+                    "name": "Hábitos y actividades para el logro de los Objetivos de Desarrollo Sostenible. El consumo responsable. El uso sostenible del suelo, del aire, del agua y de la energía. La movilidad segura, saludable y sostenible. La prevención y la gestión de los residuos."
+                  }
+                ],
+                "specificCompetences": [
+                  {
+                    "code": "4",
+                    "name": "Reconocer y valorar la diversidad y la igualdad de género, mostrando empatía y respeto por otras culturas y reflexionando sobre cuestiones éticas, para contribuir al bienestar individual y colectivo de una sociedad en continua transformación y al logro de los valores de la integración europea."
+                  },
+                  {
+                    "code": "5",
+                    "name": "Participar en el entorno y la vida social de forma eficaz y constructiva desde el respeto a los valores democráticos, los derechos humanos y de la infancia y los principios y valores de la Constitución española y la Unión Europea, valorando la función del Estado y sus instituciones en el mantenimiento de la paz y la seguridad para generar interacciones respetuosas y equitativas y promover la resolución pacífica y dialogada de los conflictos."
+                  }
+                ],
+                "criterions": [
+                  {
+                    "code": "4.2",
+                    "name": "Reconocer modelos positivos en el entorno cercano mostrando actitudes que fomenten la igualdad de género y las conductas no sexistas."
+                  },
+                  {
+                    "code": "5.1",
+                    "name": "Establecer acuerdos de forma dialógica y democrática como parte de grupos próximos a su entorno, identificando las responsabilidades y empleando un lenguaje inclusivo y no violento."
+                  },
+                  {
+                    "code": "5.2",
+                    "name": "Identificar instituciones cercanas, señalando y valorando las funciones que realizan en pro de una buena convivencia."
+                  },
+                  {
+                    "code": "5.3",
+                    "name": "Conocer e interiorizar normas básicas para la convivencia en el uso de espacios públicos, especialmente como peatones o como usuarios de los medios de locomoción, tomando conciencia de la importancia de la movilidad segura, saludable y sostenible de tanto para las personas como para el planeta."
+                  }
+                ],
+                "keyCompetences": [
+                  {
+                    "code": "CC",
+                    "name": "Competencia ciudadana"
+                  },
+                  {
+                    "code": "CPSAA",
+                    "name": "Competencia Personal, Social y de Aprender a Aprender"
+                  }
+                ],
+                "operativeDescriptors": [
+                  "Comprensión de procesos históricos y sociales y convivencia",
+                  "Reflexión sobre problemas éticos actuales",
+                  "Social"
+                ],
+                "performances": [
+                  "Valora la existencia de instituciones y normas básicas basadas en el respeto de las libertades necesarias para regular la convivencia en espacios públicos y entornos cercanos.",
+                  "Realiza acciones que promuevan la convivencia y el desarrollo sostenible en situaciones habituales del ámbito familiar y social próximo asumiendo su corresponsabilidad",
+                  "Reconoce las normas básicas para la convivencia y de la interacción con personas de diferentes culturas y lenguas basadas en los derechos y libertades de los individuos y colectivos sociales en diferentes contextos.",
+                  "Respeta las reglas de juego y las normas convivencia y uso de materiales y espacios comunes consensuadas en el ámbito educativo y social y ejerce sus derechos y deberes.",
+                  "Respeta las reglas de juego y las normas convivencia y uso de materiales y espacios comunes consensuadas en el ámbito educativo y social y ejerce sus derechos y deberes.",
+                  "Conoce normas básicas para la convivencia en espacios públicos y de interacción con personas de diferentes culturas y lenguas basadas en los derechos y libertades de los individuos y colectivos sociales en contextos cercanos a su experiencia.",
+                  "Conoce normas básicas para la convivencia en espacios públicos y de interacción con personas de diferentes culturas y lenguas basadas en los derechos y libertades de los individuos y colectivos sociales en contextos cercanos a su experiencia.",
+                  "Respeta las reglas de juego y las normas convivencia y uso de materiales y espacios comunes consensuadas en el ámbito educativo y social y ejerce sus derechos y deberes.",
+                  "Respeta las reglas de juego y las normas convivencia y uso de materiales y espacios comunes consensuadas en el ámbito educativo y social y ejerce sus derechos y deberes."
+                ]
+              }
+            }
+          },
+          {
+            "title": "Conocer las señales",
+            "abstract": "Esta sección explica los diferentes tipos de señales de tráfico y su importancia. Los aspectos principales son:\n\n- **Tipos de ubicación de señales**:\n  - Pintadas en el suelo: señales sobre calzada o acera\n  - Verticales: señales en soportes verticales y luminosas\n\n- **Clasificación de señales por función**:\n  - Información: avisan de lo que hay alrededor\n  - Peligro: señalan riesgos\n  - Obligación: indican lo que se debe hacer\n  - Prohibición: especifican lo que no se debe hacer\n  - Semáforos: señales luminosas para regular el paso\n  - Pasos de peatones: indican zonas de cruce\n\n- **Importancia de las señales**:\n  - Garantizan la seguridad\n  - Facilitan la circulación\n  - Ayudan a prevenir accidentes\n  - Organizan el tráfico",
+            "regions": {
+              "ARA": {
+                "knowledges": [
+                  {
+                    "code": "CMS.2.A.01.",
+                    "name": "Exploración y observación guiada del entorno físico y social, con especial interés en el patrimonio, el paisaje y la organización de la localidad"
+                  },
+                  {
+                    "code": "CMS.2.B.03.",
+                    "name": "Las reglas de convivencia. Moralidad, legalidad y conducta cívica"
+                  },
+                  {
+                    "code": "CMS.2.B.09.",
+                    "name": "La cultura de paz y no violencia. La contribución del Estado y sus instituciones a la paz, la seguridad y la cooperación internacional. La seguridad integral del ciudadano"
+                  }
+                ],
+                "specificCompetences": [
+                  {
+                    "code": "4",
+                    "name": "Reconocer y valorar la diversidad y la igualdad de género, mostrando empatía y respeto por otras culturas y reflexionando sobre cuestiones éticas, para contribuir al bienestar individual y colectivo de una sociedad en continua transformación y al logro de los valores de la integración europea."
+                  },
+                  {
+                    "code": "5",
+                    "name": "Participar en el entorno y la vida social de forma eficaz y constructiva desde el respeto a los valores democráticos, los derechos humanos y de la infancia y los principios y valores de la Constitución española y la Unión Europea, valorando la función del Estado y sus instituciones en el mantenimiento de la paz y la seguridad para generar interacciones respetuosas y equitativas y promover la resolución pacífica y dialogada de los conflictos."
+                  }
+                ],
+                "criterions": [
+                  {
+                    "code": "4.2",
+                    "name": "Reconocer modelos positivos en el entorno cercano mostrando actitudes que fomenten la igualdad de género y las conductas no sexistas."
+                  },
+                  {
+                    "code": "5.1",
+                    "name": "Establecer acuerdos de forma dialógica y democrática como parte de grupos próximos a su entorno, identificando las responsabilidades y empleando un lenguaje inclusivo y no violento."
+                  },
+                  {
+                    "code": "5.2",
+                    "name": "Identificar instituciones cercanas, señalando y valorando las funciones que realizan en pro de una buena convivencia."
+                  },
+                  {
+                    "code": "5.3",
+                    "name": "Conocer e interiorizar normas básicas para la convivencia en el uso de espacios públicos, especialmente como peatones o como usuarios de los medios de locomoción, tomando conciencia de la importancia de la movilidad segura, saludable y sostenible de tanto para las personas como para el planeta."
+                  }
+                ],
+                "keyCompetences": [
+                  {
+                    "code": "CC",
+                    "name": "Competencia ciudadana"
+                  },
+                  {
+                    "code": "CPSAA",
+                    "name": "Competencia Personal, Social y de Aprender a Aprender"
+                  }
+                ],
+                "operativeDescriptors": [
+                  "Comprensión de procesos históricos y sociales y convivencia",
+                  "Social"
+                ],
+                "performances": [
+                  "Valora la existencia de instituciones y normas básicas basadas en el respeto de las libertades necesarias para regular la convivencia en espacios públicos y entornos cercanos.",
+                  "Reconoce las normas básicas para la convivencia y de la interacción con personas de diferentes culturas y lenguas basadas en los derechos y libertades de los individuos y colectivos sociales en diferentes contextos.",
+                  "Respeta las reglas de juego y las normas convivencia y uso de materiales y espacios comunes consensuadas en el ámbito educativo y social y ejerce sus derechos y deberes.",
+                  "Conoce normas básicas para la convivencia en espacios públicos y de interacción con personas de diferentes culturas y lenguas basadas en los derechos y libertades de los individuos y colectivos sociales en contextos cercanos a su experiencia.",
+                  "Conoce normas básicas para la convivencia en espacios públicos y de interacción con personas de diferentes culturas y lenguas basadas en los derechos y libertades de los individuos y colectivos sociales en contextos cercanos a su experiencia.",
+                  "Respeta las reglas de juego y las normas convivencia y uso de materiales y espacios comunes consensuadas en el ámbito educativo y social y ejerce sus derechos y deberes."
+                ]
+              }
+            }
+          }
+        ]
+      },
+      {
+        "title": "Viaje al pasado",
+        "fromPage": 32,
+        "toPage": 45,
+        "sections": [
+          {
+            "title": "Saber qué es el patrimonio",
+            "abstract": "El patrimonio está constituido por lugares o bienes de valor destacado que requieren protección para el disfrute de generaciones futuras. Se divide en dos categorías principales:\n\n- **Patrimonio Natural**: Formado por bienes naturales con valor estético o científico, creados por la naturaleza a lo largo del tiempo.\n\n- **Patrimonio Cultural**: Creado por las personas y relevante para la cultura de una región. Se subdivide en:\n  - *Bienes materiales*: Elementos tangibles como monumentos, edificios, pinturas o restos arqueológicos\n  - *Bienes inmateriales*: Elementos intangibles como leyendas, canciones, fiestas o recetas\n\nEs fundamental identificar y preservar estos elementos patrimoniales para mantener la identidad cultural y natural de las regiones.",
+            "regions": {
+              "ARA": {
+                "knowledges": [
+                  {
+                    "code": "CMS.2.A.01.",
+                    "name": "Exploración y observación guiada del entorno físico y social, con especial interés en el patrimonio, el paisaje y la organización de la localidad"
+                  },
+                  {
+                    "code": "CMS.2.B.2.04.",
+                    "name": "Las expresiones y producciones artísticas a través del tiempo. El patrimonio material e inmaterial local y del contexto sociocultural del alumnado."
+                  }
+                ],
+                "specificCompetences": [
+                  {
+                    "code": "5",
+                    "name": "Participar en el entorno y la vida social de forma eficaz y constructiva desde el respeto a los valores democráticos, los derechos humanos y de la infancia y los principios y valores de la Constitución española y la Unión Europea, valorando la función del Estado y sus instituciones en el mantenimiento de la paz y la seguridad para generar interacciones respetuosas y equitativas y promover la resolución pacífica y dialogada de los conflictos."
+                  },
+                  {
+                    "code": "3",
+                    "name": "Observar, comprender e interpretar continuidades y cambios del medio social y cultural, analizando relaciones de causalidad, simultaneidad y sucesión para explicar y valorar las relaciones entre diferentes elementos y acontecimientos."
+                  }
+                ],
+                "criterions": [
+                  {
+                    "code": "5.1",
+                    "name": "Establecer acuerdos de forma dialógica y democrática como parte de grupos próximos a su entorno, identificando las responsabilidades y empleando un lenguaje inclusivo y no violento."
+                  },
+                  {
+                    "code": "3.2",
+                    "name": "Conocer personas y grupos sociales relevantes de la historia y formas de vida del pasado relacionados con la historia familiar, local y del entorno social y cultural, incorporando la perspectiva de género"
+                  }
+                ],
+                "keyCompetences": [
+                  {
+                    "code": "CC",
+                    "name": "Competencia ciudadana"
+                  }
+                ],
+                "operativeDescriptors": [
+                  "Participación en actividades comunitarias"
+                ],
+                "performances": [
+                  "Defiende de forma razonada, con la ayuda de una guía, la conservación del patrimonio cultural y las conductas cívicas y éticas orientadas por valores comunes en los que se fundamentan los derechos humanos y los principios constitucionales en relación con",
+                  "Defiende de forma razonada, con la ayuda de una guía, la conservación del patrimonio cultural y las conductas cívicas y éticas orientadas por valores comunes en los que se fundamentan los derechos humanos y los principios constitucionales en relación con",
+                  "Reconoce algunas de las aportaciones individuales y colectivas a lo largo de la historia a la cultura de su entorno que configuran su identidad como individuo y como miembro de una colectividad.",
+                  "Reconoce algunas de las aportaciones individuales y colectivas a lo largo de la historia a la cultura de su entorno que configuran su identidad como individuo y como miembro de una colectividad."
+                ]
+              }
+            }
+          },
+          {
+            "title": "Conocer expresiones culturales",
+            "abstract": "Las expresiones culturales son manifestaciones que nos permiten conocer cómo era la vida en el pasado. Incluyen diversas celebraciones y tradiciones como:\n\n- Festivales históricos (ej: Fiesta de los Amantes de Teruel)\n- Comparsas de gigantes y cabezudos que representan personajes históricos\n- Celebraciones tradicionales como el Día del Traje Ansotano\n- Carnavales tradicionales como el de Bielsa\n- Dances o paloteados (bailes tradicionales con palos o bastones)\n- Celebraciones religiosas como la Rompida de la Hora en Calanda\n\nEstas expresiones culturales ayudan a preservar la memoria histórica y las tradiciones locales, permitiendo que las nuevas generaciones conozcan y aprecien su herencia cultural.",
+            "regions": {
+              "ARA": {
+                "knowledges": [
+                  {
+                    "code": "CMS.2.B.2.03.",
+                    "name": "Recursos y medios analógicos y digitales. Las fuentes orales y la memoria colectiva. La historia local y la biografía familiar, hombres y mujeres como sujetos de la historia"
+                  },
+                  {
+                    "code": "CMS.2.B.2.04.",
+                    "name": "Las expresiones y producciones artísticas a través del tiempo. El patrimonio material e inmaterial local y del contexto sociocultural del alumnado."
+                  }
+                ],
+                "specificCompetences": [
+                  {
+                    "code": "5",
+                    "name": "Participar en el entorno y la vida social de forma eficaz y constructiva desde el respeto a los valores democráticos, los derechos humanos y de la infancia y los principios y valores de la Constitución española y la Unión Europea, valorando la función del Estado y sus instituciones en el mantenimiento de la paz y la seguridad para generar interacciones respetuosas y equitativas y promover la resolución pacífica y dialogada de los conflictos."
+                  },
+                  {
+                    "code": "3",
+                    "name": "Observar, comprender e interpretar continuidades y cambios del medio social y cultural, analizando relaciones de causalidad, simultaneidad y sucesión para explicar y valorar las relaciones entre diferentes elementos y acontecimientos."
+                  }
+                ],
+                "criterions": [
+                  {
+                    "code": "5.1",
+                    "name": "Establecer acuerdos de forma dialógica y democrática como parte de grupos próximos a su entorno, identificando las responsabilidades y empleando un lenguaje inclusivo y no violento."
+                  },
+                  {
+                    "code": "3.2",
+                    "name": "Conocer personas y grupos sociales relevantes de la historia y formas de vida del pasado relacionados con la historia familiar, local y del entorno social y cultural, incorporando la perspectiva de género"
+                  }
+                ],
+                "keyCompetences": [
+                  {
+                    "code": "CC",
+                    "name": "Competencia ciudadana"
+                  },
+                  {
+                    "code": "CCEC",
+                    "name": "Competencia en conciencia y expresión cultural"
+                  }
+                ],
+                "operativeDescriptors": [
+                  "Participación en actividades comunitarias",
+                  "Reconocimiento y comprensión del hecho cultural y artístico"
+                ],
+                "performances": [
+                  "Identifica diferentes manifestaciones de la diversidad lingüística, artística y cultural en diferentes contextos históricos y geográficos a partir de ejemplos concretos.",
+                  "Identifica diferentes manifestaciones de la diversidad lingüística, artística y cultural en diferentes contextos históricos y geográficos a partir de ejemplos concretos.",
+                  "Conoce personas, grupos sociales y formas de vida diversas y relevantes en la producción artística y cultural (plan lector, conocimiento de periodos históricos, …) del entorno social.",
+                  "Conoce personas, grupos sociales y formas de vida diversas y relevantes en la producción artística y cultural (plan lector, conocimiento de periodos históricos, …) del entorno social."
+                ]
+              }
+            }
+          },
+          {
+            "title": "Favorecer la convivencia",
+            "abstract": "La convivencia en espacios compartidos se gestiona mediante normas y señales que tienen como objetivos principales:\n\n- No molestar a otras personas\n- Garantizar la seguridad de los usuarios\n- Mantener la privacidad de las personas\n- Conservar el patrimonio\n- Facilitar los desplazamientos\n- Evitar conflictos\n\nLas normas se comunican a través de:\n- Señales de tráfico para la seguridad vial\n- Indicaciones para respetar turnos en espacios públicos\n- Normas de comportamiento en espacios compartidos\n\nLa convivencia se mejora a través de pequeños gestos cotidianos que facilitan el trabajo de otros y promueven el respeto mutuo.",
+            "regions": {
+              "ARA": {
+                "knowledges": [
+                  {
+                    "code": "CMS.2.B.03.",
+                    "name": "Las reglas de convivencia. Moralidad, legalidad y conducta cívica"
+                  },
+                  {
+                    "code": "CMS.2.B.01.",
+                    "name": "Las virtudes del diálogo y las normas de la argumentación"
+                  }
+                ],
+                "specificCompetences": [
+                  {
+                    "code": "5",
+                    "name": "Participar en el entorno y la vida social de forma eficaz y constructiva desde el respeto a los valores democráticos, los derechos humanos y de la infancia y los principios y valores de la Constitución española y la Unión Europea, valorando la función del Estado y sus instituciones en el mantenimiento de la paz y la seguridad para generar interacciones respetuosas y equitativas y promover la resolución pacífica y dialogada de los conflictos."
+                  },
+                  {
+                    "code": "4",
+                    "name": "Reconocer y valorar la diversidad y la igualdad de género, mostrando empatía y respeto por otras culturas y reflexionando sobre cuestiones éticas, para contribuir al bienestar individual y colectivo de una sociedad en continua transformación y al logro de los valores de la integración europea."
+                  }
+                ],
+                "criterions": [
+                  {
+                    "code": "5.1",
+                    "name": "Establecer acuerdos de forma dialógica y democrática como parte de grupos próximos a su entorno, identificando las responsabilidades y empleando un lenguaje inclusivo y no violento."
+                  },
+                  {
+                    "code": "5.2",
+                    "name": "Identificar instituciones cercanas, señalando y valorando las funciones que realizan en pro de una buena convivencia."
+                  },
+                  {
+                    "code": "5.3",
+                    "name": "Conocer e interiorizar normas básicas para la convivencia en el uso de espacios públicos, especialmente como peatones o como usuarios de los medios de locomoción, tomando conciencia de la importancia de la movilidad segura, saludable y sostenible de tanto para las personas como para el planeta."
+                  },
+                  {
+                    "code": "4.2",
+                    "name": "Reconocer modelos positivos en el entorno cercano mostrando actitudes que fomenten la igualdad de género y las conductas no sexistas."
+                  }
+                ],
+                "keyCompetences": [
+                  {
+                    "code": "CC",
+                    "name": "Competencia ciudadana"
+                  },
+                  {
+                    "code": "CPSAA",
+                    "name": "Competencia Personal, Social y de Aprender a Aprender"
+                  }
+                ],
+                "operativeDescriptors": [
+                  "Comprensión de procesos históricos y sociales y convivencia",
+                  "Social"
+                ],
+                "performances": [
+                  "Reconoce las normas básicas para la convivencia y de la interacción con personas de diferentes culturas y lenguas basadas en los derechos y libertades de los individuos y colectivos sociales en diferentes contextos.",
+                  "Reconoce las normas básicas para la convivencia y de la interacción con personas de diferentes culturas y lenguas basadas en los derechos y libertades de los individuos y colectivos sociales en diferentes contextos.",
+                  "Conoce normas básicas para la convivencia en espacios públicos y de interacción con personas de diferentes culturas y lenguas basadas en los derechos y libertades de los individuos y colectivos sociales en contextos cercanos a su experiencia.",
+                  "Conoce normas básicas para la convivencia en espacios públicos y de interacción con personas de diferentes culturas y lenguas basadas en los derechos y libertades de los individuos y colectivos sociales en contextos cercanos a su experiencia.",
+                  "Respeta las reglas de juego y las normas convivencia y uso de materiales y espacios comunes consensuadas en el ámbito educativo y social y ejerce sus derechos y deberes.",
+                  "Respeta las reglas de juego y las normas convivencia y uso de materiales y espacios comunes consensuadas en el ámbito educativo y social y ejerce sus derechos y deberes.",
+                  "Valora la existencia de instituciones y normas básicas basadas en el respeto de las libertades necesarias para regular la convivencia en espacios públicos y entornos cercanos.",
+                  "Valora la existencia de instituciones y normas básicas basadas en el respeto de las libertades necesarias para regular la convivencia en espacios públicos y entornos cercanos.",
+                  "Valora la existencia de instituciones y normas básicas basadas en el respeto de las libertades necesarias para regular la convivencia en espacios públicos y entornos cercanos."
+                ]
+              }
+            }
+          }
+        ]
+      },
+      {
+        "title": "A contrarreloj!",
+        "fromPage": 46,
+        "toPage": 59,
+        "sections": [
+          {
+            "title": "Identificar espacios de convivencia",
+            "abstract": "Esta sección aborda los diferentes espacios donde las personas conviven en sociedad y cómo pueden participar en ellos:\n\n- **En el colegio**: Los estudiantes pueden participar aportando ideas en buzones de sugerencias, representando a su clase, formando parte de equipos de mediación y participando en actividades organizadas por las familias.\n\n- **En organizaciones sociales**: Las personas pueden contribuir mediante donaciones de objetos o dinero, así como colaborando con su tiempo y habilidades como voluntarios.\n\n- **En asociaciones y actividades**: Se fomenta la participación en diferentes grupos y eventos comunitarios.\n\nSe enfatiza que en la sociedad conviven personas diversas y que según la edad, se puede participar de distintas formas en estos espacios compartidos.",
+            "regions": {
+              "ARA": {
+                "knowledges": [
+                  {
+                    "code": "CMS.2.B.02.",
+                    "name": "Fundamentos de la vida en sociedad. La empatía con los demás. Los afectos. La familia. La amistad y el amor"
+                  },
+                  {
+                    "code": "CMS.2.B.03.",
+                    "name": "Las reglas de convivencia. Moralidad, legalidad y conducta cívica"
+                  },
+                  {
+                    "code": "CMS.2.B.04.",
+                    "name": "Principios y valores constitucionales y democráticos. El problema de la justicia"
+                  }
+                ],
+                "specificCompetences": [
+                  {
+                    "code": "4",
+                    "name": "Reconocer y valorar la diversidad y la igualdad de género, mostrando empatía y respeto por otras culturas y reflexionando sobre cuestiones éticas, para contribuir al bienestar individual y colectivo de una sociedad en continua transformación y al logro de los valores de la integración europea."
+                  },
+                  {
+                    "code": "5",
+                    "name": "Participar en el entorno y la vida social de forma eficaz y constructiva desde el respeto a los valores democráticos, los derechos humanos y de la infancia y los principios y valores de la Constitución española y la Unión Europea, valorando la función del Estado y sus instituciones en el mantenimiento de la paz y la seguridad para generar interacciones respetuosas y equitativas y promover la resolución pacífica y dialogada de los conflictos."
+                  }
+                ],
+                "criterions": [
+                  {
+                    "code": "4.2",
+                    "name": "Reconocer modelos positivos en el entorno cercano mostrando actitudes que fomenten la igualdad de género y las conductas no sexistas."
+                  },
+                  {
+                    "code": "5.1",
+                    "name": "Establecer acuerdos de forma dialógica y democrática como parte de grupos próximos a su entorno, identificando las responsabilidades y empleando un lenguaje inclusivo y no violento."
+                  },
+                  {
+                    "code": "5.2",
+                    "name": "Identificar instituciones cercanas, señalando y valorando las funciones que realizan en pro de una buena convivencia."
+                  }
+                ],
+                "keyCompetences": [
+                  {
+                    "code": "CC",
+                    "name": "Competencia ciudadana"
+                  },
+                  {
+                    "code": "CPSAA",
+                    "name": "Competencia Personal, Social y de Aprender a Aprender"
+                  }
+                ],
+                "operativeDescriptors": [
+                  "Comprensión de procesos históricos y sociales y convivencia",
+                  "Social"
+                ],
+                "performances": [
+                  "Valora la existencia de instituciones y normas básicas basadas en el respeto de las libertades necesarias para regular la convivencia en espacios públicos y entornos cercanos.",
+                  "Demuestra actitudes y comportamientos prosociales que promueven un modo de convivencia inclusivo y democrático.",
+                  "Coopera en el proceso democrático de toma de decisiones en los grupos de los que forma parte del ámbito escolar y social y respeta los acuerdos consensuados.",
+                  "Reconoce las normas básicas para la convivencia y de la interacción con personas de diferentes culturas y lenguas basadas en los derechos y libertades de los individuos y colectivos sociales en diferentes contextos.",
+                  "Conoce normas básicas para la convivencia en espacios públicos y de interacción con personas de diferentes culturas y lenguas basadas en los derechos y libertades de los individuos y colectivos sociales en contextos cercanos a su experiencia.",
+                  "Conoce normas básicas para la convivencia en espacios públicos y de interacción con personas de diferentes culturas y lenguas basadas en los derechos y libertades de los individuos y colectivos sociales en contextos cercanos a su experiencia."
+                ]
+              }
+            }
+          },
+          {
+            "title": "Favorecer la convivencia",
+            "abstract": "Esta sección explica cómo se puede mejorar la convivencia en espacios compartidos:\n\n- **Normas y señales**: Las normas ayudan a gestionar la convivencia y los conflictos. Las señales indican las normas de cada lugar, con el objetivo de:\n  - No molestar a otras personas\n  - Garantizar la seguridad\n  - Mantener la privacidad\n  - Conservar el patrimonio\n\n- **Normas de seguridad vial**: Se utilizan señales de tráfico para:\n  - Garantizar la seguridad\n  - Facilitar los desplazamientos\n\n- **Comportamientos que favorecen la convivencia**:\n  - Respetar turnos en espacios públicos\n  - Realizar pequeños gestos que facilitan el trabajo de otros\n  - Considerar cómo afectan nuestras acciones a los demás\n\nSe enfatiza que las normas son herramientas para evitar conflictos y promover una convivencia armoniosa en sociedad.",
+            "regions": {
+              "ARA": {
+                "knowledges": [
+                  {
+                    "code": "CMS.2.B.03.",
+                    "name": "Las reglas de convivencia. Moralidad, legalidad y conducta cívica"
+                  },
+                  {
+                    "code": "CMS.2.B.09.",
+                    "name": "La cultura de paz y no violencia. La contribución del Estado y sus instituciones a la paz, la seguridad y la cooperación internacional. La seguridad integral del ciudadano"
+                  }
+                ],
+                "specificCompetences": [
+                  {
+                    "code": "4",
+                    "name": "Reconocer y valorar la diversidad y la igualdad de género, mostrando empatía y respeto por otras culturas y reflexionando sobre cuestiones éticas, para contribuir al bienestar individual y colectivo de una sociedad en continua transformación y al logro de los valores de la integración europea."
+                  },
+                  {
+                    "code": "5",
+                    "name": "Participar en el entorno y la vida social de forma eficaz y constructiva desde el respeto a los valores democráticos, los derechos humanos y de la infancia y los principios y valores de la Constitución española y la Unión Europea, valorando la función del Estado y sus instituciones en el mantenimiento de la paz y la seguridad para generar interacciones respetuosas y equitativas y promover la resolución pacífica y dialogada de los conflictos."
+                  }
+                ],
+                "criterions": [
+                  {
+                    "code": "4.2",
+                    "name": "Reconocer modelos positivos en el entorno cercano mostrando actitudes que fomenten la igualdad de género y las conductas no sexistas."
+                  },
+                  {
+                    "code": "5.1",
+                    "name": "Establecer acuerdos de forma dialógica y democrática como parte de grupos próximos a su entorno, identificando las responsabilidades y empleando un lenguaje inclusivo y no violento."
+                  },
+                  {
+                    "code": "5.3",
+                    "name": "Conocer e interiorizar normas básicas para la convivencia en el uso de espacios públicos, especialmente como peatones o como usuarios de los medios de locomoción, tomando conciencia de la importancia de la movilidad segura, saludable y sostenible de tanto para las personas como para el planeta."
+                  }
+                ],
+                "keyCompetences": [
+                  {
+                    "code": "CC",
+                    "name": "Competencia ciudadana"
+                  },
+                  {
+                    "code": "CPSAA",
+                    "name": "Competencia Personal, Social y de Aprender a Aprender"
+                  }
+                ],
+                "operativeDescriptors": [
+                  "Reflexión sobre problemas éticos actuales",
+                  "Comprensión de procesos históricos y sociales y convivencia",
+                  "Social"
+                ],
+                "performances": [
+                  "Realiza acciones que promuevan la convivencia y el desarrollo sostenible en situaciones habituales del ámbito familiar y social próximo asumiendo su corresponsabilidad",
+                  "Valora la existencia de instituciones y normas básicas basadas en el respeto de las libertades necesarias para regular la convivencia en espacios públicos y entornos cercanos.",
+                  "Respeta las reglas de juego y las normas convivencia y uso de materiales y espacios comunes consensuadas en el ámbito educativo y social y ejerce sus derechos y deberes.",
+                  "Respeta las reglas de juego y las normas convivencia y uso de materiales y espacios comunes consensuadas en el ámbito educativo y social y ejerce sus derechos y deberes.",
+                  "Valora la existencia de instituciones y normas básicas basadas en el respeto de las libertades necesarias para regular la convivencia en espacios públicos y entornos cercanos.",
+                  "Respeta las reglas de juego y las normas convivencia y uso de materiales y espacios comunes consensuadas en el ámbito educativo y social y ejerce sus derechos y deberes.",
+                  "Respeta las reglas de juego y las normas convivencia y uso de materiales y espacios comunes consensuadas en el ámbito educativo y social y ejerce sus derechos y deberes."
+                ]
+              }
+            }
+          }
+        ]
+      },
+      {
+        "title": "Tic, tac...",
+        "fromPage": 60,
+        "toPage": 73,
+        "sections": [
+          {
+            "title": "Conocer el calendario",
+            "abstract": "El calendario es una herramienta fundamental para representar y organizar el tiempo de forma visual. Los aspectos principales son:\n\n- La semana tiene 7 días (lunes a domingo)\n- El año tiene 12 meses (enero a diciembre)\n- Permite marcar fechas señaladas como fiestas y eventos importantes\n- Ayuda a organizar actividades diarias, semanales, mensuales y anuales\n- Se pueden crear calendarios personalizados según las necesidades\n\nEl calendario ayuda a:\n- Planificar actividades\n- Recordar fechas importantes\n- Organizar eventos\n- Establecer rutinas",
+            "regions": {
+              "ARA": {
+                "knowledges": [
+                  {
+                    "code": "CMS.2.B.2.01.",
+                    "name": "La percepción del tiempo. Categorías temporales básicas. Medida del tiempo en la vida cotidiana"
+                  }
+                ],
+                "specificCompetences": [
+                  {
+                    "code": "6",
+                    "name": "Plantear y dar respuesta a cuestiones científicas sencillas, relacionadas con las Ciencias Sociales, utilizando diferentes fuentes, técnicas, instrumentos y habilidades propias del pensamiento científico, para interpretar y explicar hechos y fenómenos que ocurren en el medio natural, social y cultural."
+                  }
+                ],
+                "criterions": [
+                  {
+                    "code": "6.2",
+                    "name": "Buscar información sencilla de forma guiada de diferentes fuentes seguras y fiables, utilizándola en trabajos relacionados con el medio natural, social y cultural."
+                  }
+                ],
+                "keyCompetences": [
+                  {
+                    "code": "CCL",
+                    "name": "Competencia en Comunicación Lingüística"
+                  }
+                ],
+                "operativeDescriptors": [
+                  "Tratamiento de la información"
+                ],
+                "performances": [
+                  "Muestra interés por buscar en fuentes diversas la información que le interesa o necesita para la realización de tareas y proyectos.",
+                  "Muestra interés por buscar en fuentes diversas la información que le interesa o necesita para la realización de tareas y proyectos."
+                ]
+              }
+            }
+          },
+          {
+            "title": "Reconocer el paso del tiempo",
+            "abstract": "El paso del tiempo se puede reconocer y representar de diferentes formas:\n\n- A través de líneas temporales que muestran la secuencia de acontecimientos\n- Mediante la observación de cambios en objetos y personas\n- Comparando el pasado, presente y futuro\n- Analizando la evolución de elementos cotidianos\n\nPara representar el paso del tiempo se utilizan:\n- Líneas temporales\n- Fotografías que muestran cambios\n- Comparaciones entre diferentes épocas\n- Secuencias de acontecimientos ordenados cronológicamente\n\nEs importante entender que el paso del tiempo implica cambios y transformaciones en:\n- Personas\n- Objetos\n- Tecnología\n- Costumbres y formas de vida",
+            "regions": {
+              "ARA": {
+                "knowledges": [
+                  {
+                    "code": "CMS.2.B.2.01.",
+                    "name": "La percepción del tiempo. Categorías temporales básicas. Medida del tiempo en la vida cotidiana"
+                  },
+                  {
+                    "code": "CMS.2.A.02.",
+                    "name": "Inicio al trabajo con fuentes. Uso de objetos y artefactos de la vida cotidiana como fuentes para reflexionar sobre el cambio y la continuidad, las causas y consecuencias"
+                  },
+                  {
+                    "code": "CMS.2.A.03.",
+                    "name": "Inicio en la representación gráfica del espacio (lectura o Inicio a la representación gráfica del espacio y del tiempo"
+                  }
+                ],
+                "specificCompetences": [
+                  {
+                    "code": "3",
+                    "name": "Observar, comprender e interpretar continuidades y cambios del medio social y cultural, analizando relaciones de causalidad, simultaneidad y sucesión para explicar y valorar las relaciones entre diferentes elementos y acontecimientos."
+                  },
+                  {
+                    "code": "5",
+                    "name": "Participar en el entorno y la vida social de forma eficaz y constructiva desde el respeto a los valores democráticos, los derechos humanos y de la infancia y los principios y valores de la Constitución española y la Unión Europea, valorando la función del Estado y sus instituciones en el mantenimiento de la paz y la seguridad para generar interacciones respetuosas y equitativas y promover la resolución pacífica y dialogada de los conflictos."
+                  }
+                ],
+                "criterions": [
+                  {
+                    "code": "3.2",
+                    "name": "Conocer personas y grupos sociales relevantes de la historia y formas de vida del pasado relacionados con la historia familiar, local y del entorno social y cultural, incorporando la perspectiva de género"
+                  },
+                  {
+                    "code": "5.1",
+                    "name": "Establecer acuerdos de forma dialógica y democrática como parte de grupos próximos a su entorno, identificando las responsabilidades y empleando un lenguaje inclusivo y no violento."
+                  }
+                ],
+                "keyCompetences": [
+                  {
+                    "code": "CCEC",
+                    "name": "Competencia en conciencia y expresión cultural"
+                  },
+                  {
+                    "code": "CC",
+                    "name": "Competencia ciudadana"
+                  }
+                ],
+                "operativeDescriptors": [
+                  "Reconocimiento y comprensión del hecho cultural y artístico",
+                  "Participación en actividades comunitarias"
+                ],
+                "performances": [
+                  "Conoce personas, grupos sociales y formas de vida diversas y relevantes en la producción artística y cultural (plan lector, conocimiento de periodos históricos, …) del entorno social.",
+                  "Reconoce algunas de las aportaciones individuales y colectivas a lo largo de la historia a la cultura de su entorno que configuran su identidad como individuo y como miembro de una colectividad.",
+                  "Reconoce algunas de las aportaciones individuales y colectivas a lo largo de la historia a la cultura de su entorno que configuran su identidad como individuo y como miembro de una colectividad.",
+                  "Identifica diferentes manifestaciones de la diversidad lingüística, artística y cultural en diferentes contextos históricos y geográficos a partir de ejemplos concretos.",
+                  "Identifica diferentes manifestaciones de la diversidad lingüística, artística y cultural en diferentes contextos históricos y geográficos a partir de ejemplos concretos."
+                ]
+              }
+            }
+          }
+        ]
+      },
+      {
+        "title": "Vísteme despacio",
+        "fromPage": 74,
+        "toPage": 88,
+        "sections": [
+          {
+            "title": "Ubicar acontecimientos en la historia",
+            "abstract": "La historia es el conjunto de acontecimientos del pasado que se divide en diferentes etapas:\n\n- **Prehistoria**: Aparición de las primeras personas y desarrollo de agricultura, ganadería, alfarería y metalurgia\n\n- **Edad Antigua**: Desarrollo de civilizaciones egipcia, griega y romana\n\n- **Edad Media**: Caracterizada por la construcción de castillos, catedrales y monasterios\n\n- **Edad Moderna**: Época de descubrimientos y expansión del comercio, marcada por el Descubrimiento de América\n\n- **Edad Contemporánea**: Período de grandes avances que continúa hasta la actualidad\n\nPara estudiar la historia se utilizan diferentes tipos de fuentes de información que pueden ser materiales, escritas u orales.",
+            "regions": {
+              "ARA": {
+                "knowledges": [
+                  {
+                    "code": "CMS.2.B.2.01.",
+                    "name": "La percepción del tiempo. Categorías temporales básicas. Medida del tiempo en la vida cotidiana"
+                  },
+                  {
+                    "code": "CMS.2.B.2.03.",
+                    "name": "Recursos y medios analógicos y digitales. Las fuentes orales y la memoria colectiva. La historia local y la biografía familiar, hombres y mujeres como sujetos de la historia"
+                  },
+                  {
+                    "code": "CMS.2.B.2.04.",
+                    "name": "Las expresiones y producciones artísticas a través del tiempo. El patrimonio material e inmaterial local y del contexto sociocultural del alumnado."
+                  }
+                ],
+                "specificCompetences": [
+                  {
+                    "code": "3",
+                    "name": "Observar, comprender e interpretar continuidades y cambios del medio social y cultural, analizando relaciones de causalidad, simultaneidad y sucesión para explicar y valorar las relaciones entre diferentes elementos y acontecimientos."
+                  }
+                ],
+                "criterions": [
+                  {
+                    "code": "3.2",
+                    "name": "Conocer personas y grupos sociales relevantes de la historia y formas de vida del pasado relacionados con la historia familiar, local y del entorno social y cultural, incorporando la perspectiva de género"
+                  }
+                ],
+                "keyCompetences": [
+                  {
+                    "code": "CCEC",
+                    "name": "Competencia en conciencia y expresión cultural"
+                  },
+                  {
+                    "code": "CC",
+                    "name": "Competencia ciudadana"
+                  }
+                ],
+                "operativeDescriptors": [
+                  "Reconocimiento y comprensión del hecho cultural y artístico",
+                  "Participación en actividades comunitarias"
+                ],
+                "performances": [
+                  "Conoce personas, grupos sociales y formas de vida diversas y relevantes en la producción artística y cultural (plan lector, conocimiento de periodos históricos, …) del entorno social.",
+                  "Reconoce algunas de las aportaciones individuales y colectivas a lo largo de la historia a la cultura de su entorno que configuran su identidad como individuo y como miembro de una colectividad.",
+                  "Reconoce algunas de las aportaciones individuales y colectivas a lo largo de la historia a la cultura de su entorno que configuran su identidad como individuo y como miembro de una colectividad.",
+                  "Conoce personas, grupos sociales y formas de vida diversas y relevantes en la producción artística y cultural (plan lector, conocimiento de periodos históricos, …) del entorno social."
+                ]
+              }
+            }
+          },
+          {
+            "title": "Investigar sobre el paso del tiempo",
+            "abstract": "Para investigar sobre el pasado se pueden utilizar diferentes fuentes de información:\n\n- **Fuentes materiales**: Objetos y restos físicos\n- **Fuentes escritas**: Documentos y textos históricos\n- **Fuentes orales**: Testimonios y relatos transmitidos verbalmente\n- **Fuentes gráficas**: Fotografías, pinturas y otras representaciones visuales\n\nPara investigar sobre la historia familiar se recomienda:\n\n1. Preguntar a familiares y consultar fotografías y documentos\n2. Analizar la información recopilada y seleccionar acontecimientos relevantes\n3. Ordenar cronológicamente los eventos y organizarlos\n4. Representar la información en una línea del tiempo\n\nEsto permite comprender mejor el paso del tiempo y la evolución de la historia familiar.",
+            "regions": {
+              "ARA": {
+                "knowledges": [
+                  {
+                    "code": "CMS.2.A.02.",
+                    "name": "Inicio al trabajo con fuentes. Uso de objetos y artefactos de la vida cotidiana como fuentes para reflexionar sobre el cambio y la continuidad, las causas y consecuencias"
+                  },
+                  {
+                    "code": "CMS.2.B.2.01.",
+                    "name": "La percepción del tiempo. Categorías temporales básicas. Medida del tiempo en la vida cotidiana"
+                  },
+                  {
+                    "code": "CMS.2.B.2.02.",
+                    "name": "El ciclo vital y las relaciones intergeneracionales"
+                  },
+                  {
+                    "code": "CMS.2.B.2.03.",
+                    "name": "Recursos y medios analógicos y digitales. Las fuentes orales y la memoria colectiva. La historia local y la biografía familiar, hombres y mujeres como sujetos de la historia"
+                  }
+                ],
+                "specificCompetences": [
+                  {
+                    "code": "6",
+                    "name": "Plantear y dar respuesta a cuestiones científicas sencillas, relacionadas con las Ciencias Sociales, utilizando diferentes fuentes, técnicas, instrumentos y habilidades propias del pensamiento científico, para interpretar y explicar hechos y fenómenos que ocurren en el medio natural, social y cultural."
+                  }
+                ],
+                "criterions": [
+                  {
+                    "code": "6.2",
+                    "name": "Buscar información sencilla de forma guiada de diferentes fuentes seguras y fiables, utilizándola en trabajos relacionados con el medio natural, social y cultural."
+                  }
+                ],
+                "keyCompetences": [
+                  {
+                    "code": "CCL",
+                    "name": "Competencia en Comunicación Lingüística"
+                  },
+                  {
+                    "code": "STEM",
+                    "name": "Competencia Matemática y Competencia en Ciencia y Tecnología"
+                  }
+                ],
+                "operativeDescriptors": [
+                  "Tratamiento de la información",
+                  "Pensamiento científico"
+                ],
+                "performances": [
+                  "Muestra interés por buscar en fuentes diversas la información que le interesa o necesita para la realización de tareas y proyectos.",
+                  "Busca y selecciona información de diferentes fuentes fiables acotadas por el docente para usarla en investigaciones relacionadas con el medio natural, social y cultural",
+                  "Busca información de diferentes fuentes fiables acotadas por el docente para usarla en sencillas investigaciones relacionadas con el medio natural, social y cultural",
+                  "Busca información de diferentes fuentes fiables acotadas por el docente para usarla en sencillas investigaciones relacionadas con el medio natural, social y cultural",
+                  "Muestra interés por buscar en fuentes diversas la información que le interesa o necesita para la realización de tareas y proyectos."
+                ]
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }
